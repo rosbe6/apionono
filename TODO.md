@@ -1,0 +1,5 @@
+- [x] Crear copia limpia de gates/monerisbeta.py en gates/monerisbeta_clean.py
+- [x] Eliminar lógica no útil (estimación/contador de bytes y resumen de transferencia)
+- [x] Mantener flujo principal de checkout/pago y clasificación final
+- [x] Verificar que el archivo nuevo conserve el entrypoint funcional
+- [x] Marcar tareas completadas
